@@ -8,6 +8,9 @@
 
   <ItemGroup>
     <Folder Include="DataBase\" />
+    <Folder Include="Entities\" />
+    <Folder Include="Enums\" />
+    <Folder Include="Repos\" />
   </ItemGroup>
 
 </Project>
